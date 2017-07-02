@@ -1,0 +1,200 @@
+Ulsisoft Multimedia products is for desktop PC in general for everyone
+
+Developer can work with images , videos , camera shots and desktop-screen shots on the fly and save it to an image or a video file.
+
+Available in both 32bit and 64bit formats. Right now it’s windows only. Future editions will have
+Mac OSX as well.
+
+Windows platforms applicable for this product :
+1. WindowXP
+2. WindowsVista
+3. Windows8 / 8.1
+4. Windows10
+
+Ulsisoft ‘s desktop multimedia (desk Assistant) software is on sale.
+
+deskMM-lite 
+===========
+Ulsisoft desktop multimedia for camera , video , image and desktop software tools
+
+
+Ulsisoft “deskMM-lite” is “lite” edition of desktop multi-media software for manipulating images ,
+videos , camera shots and desktop-screen shots on the fly and save it to an image or a video file.
+
+Available in both 32bit and 64bit formats. Right now it’s windows only.
+
+Future editions will have Mac OSX as well.
+
+For puchase , directly visit our ” Products ” webpage . Thanks for visiting Ulsisoft .
+
+Windows platforms applicable for this product :
+1. WindowXP
+2. WindowsVista
+3. Windows8 / 8.1
+4. Windows10
+
+The following summaries in brief :
+
+General description of the app :
+========================
+– Load the function from top menu or from right-side-top select switcher to any function seamlessly
+– Function list:
+1. Default – start function (for initialization only)
+2. Image
+3. Camera
+4. Desktop
+5. Video
+– Alarm timer for any wake-up timer for the user in busy times
+– Video record timer for video length indication
+– Application usage timer for user indication of the application up-time
+– Video delay timer for delayed video recording
+– Audio indicators for almost all the functionality
+– Volume control slider and on/off control
+– Preferences settings in to file for future user requirements
+– License checker for user license check for time validity
+– File directory selections on the fly for both image and video load or save functionality
+– Image save type selection control
+– Video save type selection control
+
+1. Manipulating images :
+===================
+– Save in 3 different file formats : ‘jpg , ‘png’ & ‘bmp’
+– Change colors of the image and save in any 3 formats
+– Blur the image and save
+– Convert the image into black & white , grey color and save
+– Flip images in horizontal , vertical or both and save
+– Make a video out of the images by loading series of images and also manipulate brightness , color , blur , grey & flip on the go
+– Video file save timer to save video after some delay for increased control ability
+– Video file save controls :Play (Continue) , Stop , Pause and Resume
+– Direct loading from any function to image-display from the top menu to manipulate and save into video or image or both
+
+2. Manipulating Movie Video ( images only ) :
+===================================
+– Save in 3 different file formats : ‘jpg , ‘png’ & ‘bmp’
+– Change colors of the image and save in any 3 formats
+– Blur the video-image and save
+– Convert the video-image into black & white , grey color save
+– Flip images in horizontal , vertical and both
+– Make a video out of the images by loading series of images and also manipulate brightness , color , blur , grey & flip on the go
+– Video file save timer to save video after some delay for increased control ability
+– Separate video controls : Play (Continue) , Stop , Fast-forward , Fast-reverse , Pause and Resume
+– Slider controls for quick panning
+– Data about video resolution and app-display resolution are updated immediately
+– Direct loading from any function to video-play from the top menu to manipulate and save into video or image or both
+
+3. Manipulating Desktop Screen ( images only ) :
+=====================================
+– Save in 3 different file formats : ‘jpg , ‘png’ & ‘bmp’
+– Change colors of the image and save in any 3 formats
+– Blur the video-image and save
+– Convert the video-image into black & white , grey color save
+– Flip images in horizontal , vertical and both
+– Make a video out of the desktop-screen images by loading series of desktop-screens (upto 8) and also manipulate brightness , color , blur , grey & flip on the go
+– Switch between 8 desktop screens seamlessly
+– Data about desktop-screen resolution and app-display resolution are updated immediately
+– Video file save timer to save video after some delay for increased control ability
+– Direct loading from any function to desktop-screen from the top menu to manipulate and save into video or image or both
+
+4. Manipulating Camera ( images only ) :
+===============================
+– Save in 3 different file formats : ‘jpg , ‘png’ & ‘bmp’
+– Change colors of the image and save in any 3 formats
+– Blur the camera-image and save
+– Convert the camera-image into black & white , grey color save
+– Flip images in horizontal , vertical and both
+– Make a video out of the camera images by loading series of cameras(upto 16) and also manipulate brightness , color , blur , grey & flip on the go
+– Switch between 16 camera seamlessly
+– Data about camera resolution and app-display resolution are updated immediately
+– Video file save timer to save video after some delay for increased control ability
+– Direct loading from any function to desktop-screen from the top menu to manipulate and save into video or image or both
+
+Timers :
+=======
+1. Video play
+2. Video record
+3. Application up-time
+4. Alarm
+– Al timers have play , pause , resume , reset and restart function buttons
+
+A 65-page usage manual in ‘pdf’ format will be made available shortly for free for all users of this software.
+
+Enjoy and have fun with deskMM. Have great pleasure in exploring multi-media related creativity through our
+products now and also in the future.
+
+We understand our deskMM-lite is still in infancy. Explore with joy.
+
+We have plans to greatly enhance the deskMM multi-media features in the upcoming future releases and hence we
+request you all kindly look forward to our products in the future.
+
+This product comes with an installer for both 32bit as well as 64bit.
+Windows only – right now. Mac OSX will follow.
+Please download 32bit or 64bit versions accordingly.
+
+32bit windows users should download 32bit version only.
+
+64bit windows users can download 32bit / 64bit version but 64bit version is recommended.
+
+If you have any general queries , please write to :
+contact@ulsisoft.com
+
+We strive hard to make our product bugs free. But in case if you discover any bugs , please produce a write-up and write to:
+bugs@ulsisoft.com
+
+We appreciate the user to send in their recommendations of any specific features or functionality in multi-media.
+If feasible , we will incorporate those features or functionality in our future releases or products.
+
+Please send in your recommendations with a write-up to :
+recommend@ulsisoft.com
+
+Please watch you-tube videos at Ulsisoft You-Tube Channel :
+
+Ulsisoft You-Tube Channel
+
+  – Overview :
+
+Ulsisoft desktop Multimedia deskmm-lite overview (YouTube)
+
+DeskMM lite v2017 Desktop Capabilities (YouTube) :
+
+DeskMM lite v2017 Video Capabilities (YouTube) :
+
+DeskMM lite v2017 Image Capabilities (YouTube) : 
+
+DeskMM lite v2017 Camera Capabilities (YouTube) : 
+
+Users can download documents on DeskMM lite v2017 Desktop Multi-Media documents from the URLs down below :
+
+“PDF” document can be found at below (google drive) :
+
+Ulsisoft_DeskMM_DesktopMultimedia_v2017.pdf
+
+“xHTML” document can be found at below (google drive) :
+
+Ulsisoft_DeskMM_DesktopMultimedia_v2017.xhtml
+
+ “ZIP” document can be found at below (google drive) :
+
+Ulsisoft_DeskMM_DesktopMultimedia_v2017.zip
+
+View “xhtml” in any web browser like Google chrome , Mozilla firefox , Microsoft Edge etc…
+
+Ulsisoft  welcomes all viewers and users.
+
+Software applications are available for everyone.
+
+Please visit our FREE apps page :
+=================================
+www.ulsisoft.com
+
+1. click on webpage -> FREE
+2. Navigate through the page contents
+3. You will find password
+
+Enjoy with your loved ones ……
+
+Thanks,
+Ulsisoft
+www.ulsisoft.com
+
+
+
